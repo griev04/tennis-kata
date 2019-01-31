@@ -1,6 +1,6 @@
 const expect = require('chai').expect;
 
-const Tennis = require('../tennis');
+const Tennis = require('../Tennis');
 
 let tennisGame = new Tennis('Sam', 'Luke');
 
